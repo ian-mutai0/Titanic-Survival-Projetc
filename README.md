@@ -1,5 +1,4 @@
-# Titanic-Survival-Project
-# Spambase Dataset
+# Titanic Survival and Spambase Datasets
 This week's project requires us to implement a K-nearest neighbor (kNN) classifier  and a Naive Bayes classifier. Once we conduct the experiments, we will calculate the resulting metrics:
 
 # Experimental Procedure:
